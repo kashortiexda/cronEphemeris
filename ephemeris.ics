@@ -1,0 +1,4139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Paul Hurst//Ephemeris//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ephemeris
+X-WR-TIMEZONE:Africa/Johannesburg
+CHARSET:UTF-8
+
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBsK/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBt3/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBtk/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBtB/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBvr/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBvQ/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBw8/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBwx/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBwK/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBx1/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBxj/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000F1F41C4737ADDC01000000000000000
+ 010000000DA4E302397DD29458ACF9E06521E0C14
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026 - Practice 
+ 1
+DTSTART;TZID=UTC:20260306T013000
+DTEND;TZID=UTC:20260306T023000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Australia
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SByj/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SByB/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SByT/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBzf/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBzz/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBzX/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBBh/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBBD/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBBX/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBCb/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBCF/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008241C56437ADDC01000000000000000
+ 010000000883C0C120725A34D8B00214FAAC83354
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026 - Practice 
+ 2
+DTSTART;TZID=UTC:20260306T050000
+DTEND;TZID=UTC:20260306T060000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Australia
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stay up to speed with the latest information from Formula 1.\n\
+ nNew season schedule releases\, updates and any changes to race dates\, ti
+ mes and details will be made automatically – you don’t have to do anyt
+ hing.\n\nManage my ECAL\nhttps://cal.f1.com/f/2cGXMc/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008F03997337ADDC01000000000000000
+ 010000000824ABFA24266E54EB1DC2EB05A0711BB
+SUMMARY:Formula 1 in your calendar!
+DTSTART;TZID=UTC:20260306T071700
+DTEND;TZID=UTC:20260306T073200
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBDS/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBF6/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBFh/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBFy/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBFR/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBG3/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBGk/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBGC/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBGQ/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBGY/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBHv/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000BCC5E57137ADDC01000000000000000
+ 010000000BCAB485DB154AD4D9277964EFA707EC7
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026 - Practice 
+ 3
+DTSTART;TZID=UTC:20260307T013000
+DTEND;TZID=UTC:20260307T023000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Australia
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBJK/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBK1/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBKj/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBKC/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBKV/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBLf/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBLv/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBLM/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBM2/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBMl/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBMS/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000007CB2EE4537ADDC01000000000000000
+ 0100000009CC3315CCDA33E4698670DD3F8B51E7D
+SUMMARY:⏱️ FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026 - Qualify
+ ing
+DTSTART;TZID=UTC:20260307T050000
+DTEND;TZID=UTC:20260307T060000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Australia
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBNK/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBNZ/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBPk/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBPJ/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBPZ/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBQj/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBQC/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBQR/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBR7/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBRB/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBRX/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000001A19257237ADDC01000000000000000
+ 0100000002EA0B6A2F2449542BF2ACDA346BFB3F3
+SUMMARY:🏁 FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260308T040000
+DTEND;TZID=UTC:20260308T060000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Australia
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SxMl/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SxMz/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SxMV/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SxN9/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SxNs/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SxNL/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SxP5/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SxPl/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SxPD/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SxPS/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SxQm/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000002920204337ADDC01000000000000000
+ 01000000099D793B0E4753A4AA4246B848C7CEB7A
+SUMMARY:🏎 FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260313T033000
+DTEND;TZID=UTC:20260313T043000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:China
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SxRk/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SxRx/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SxRN/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SxS6/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SxSl/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SxSC/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SxSV/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SxTj/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SxTB/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SxTR/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SxV9/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000231C7D5D37ADDC01000000000000000
+ 010000000DBCB992520C0B1499F4D6044EDD25782
+SUMMARY:⏱️ FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 - Sprint Qualific
+ ation
+DTSTART;TZID=UTC:20260313T073000
+DTEND;TZID=UTC:20260313T081400
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:China
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SxVM/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SxW3/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SxWj/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SxWz/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SxWP/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SxX7/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SxXm/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SxXG/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SxXY/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SxYc/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SxYF/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000009AEBE84E37ADDC01000000000000000
+ 010000000D4D8F5C2037F2D40B3647BA4EFC5CA63
+SUMMARY:🏁 FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 - Sprint Race
+DTSTART;TZID=UTC:20260314T030000
+DTEND;TZID=UTC:20260314T040000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:China
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SxZw/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SxZL/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sy16/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sy1g/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sy1r/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sy1P/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sy2c/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sy2s/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sy2K/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sy34/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Sy3q/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E9407A7037ADDC01000000000000000
+ 010000000A58DF794F5323D4BB187DB5918F10FB3
+SUMMARY:⏱️ FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260314T070000
+DTEND;TZID=UTC:20260314T080000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:China
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Sy49/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Sy4r/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sy4F/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sy4W/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sy5b/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sy5p/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sy5z/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sy5R/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sy63/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sy6g/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Sy6F/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000003337394F37ADDC01000000000000000
+ 010000000DF6BB1975D02DC49B014EA0060E6B4EB
+SUMMARY:🏁 FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260315T070000
+DTEND;TZID=UTC:20260315T090000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:China
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Szdf/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Szdv/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzdM/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Szf6/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Szfm/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Szfz/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzfQ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Szg4/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Szgj/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzgC/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzgW/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000C74EF15237ADDC01000000000000000
+ 01000000045899C2883A87D4882E60600D7EBAE8C
+SUMMARY:🏎 FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260327T023000
+DTEND;TZID=UTC:20260327T033000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Japan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzhQ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Szj5/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Szjm/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzjB/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SzjW/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Szkd/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Szkx/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzkQ/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Szl8/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Szlr/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzlT/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000AC96454537ADDC01000000000000000
+ 0100000008934FD524295A3489331A118BE50CBE7
+SUMMARY:🏎 FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 - Practice 2
+DTSTART;TZID=UTC:20260327T060000
+DTEND;TZID=UTC:20260327T070000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Japan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Szrt/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SzrG/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzrV/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Szs4/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Szsg/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Szsz/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzsK/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzsX/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sztc/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sztp/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SztV/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000000CC1326C37ADDC01000000000000000
+ 010000000CD68AEF6A1636549A1C1DCDDC782A43C
+SUMMARY:🏎 FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 - Practice 3
+DTSTART;TZID=UTC:20260328T023000
+DTEND;TZID=UTC:20260328T033000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Japan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzvV/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Szwc/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Szwr/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzwN/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Szx4/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Szxp/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Szxy/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzxL/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Szy1/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Szyg/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzyB/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000A896684A37ADDC01000000000000000
+ 010000000B92AEFE57C0173449381B0AB31E1BF08
+SUMMARY:⏱️ FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260328T060000
+DTEND;TZID=UTC:20260328T070000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Japan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzmM/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Szn1/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Szng/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sznz/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SznN/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Szp5/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Szpp/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzpD/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SzpQ/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Szq7/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Szqt/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000063B2DF5137ADDC01000000000000000
+ 010000000EABD7E7BE929A54C86AC3B3265679F2B
+SUMMARY:🏁 FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260329T050000
+DTEND;TZID=UTC:20260329T070000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Japan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Sy7r/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Sy7G/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sy7X/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sy8d/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sy8x/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sy8Q/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sy92/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sy9d/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sy9v/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sy9K/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Syb4/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000336DA25237ADDC01000000000000000
+ 010000000A03B92902198C74D98CA5B1700CD686A
+SUMMARY:🏎 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260501T163000
+DTEND;TZID=UTC:20260501T173000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SybP/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Syc6/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sycm/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sycz/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SycN/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Syd1/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sydg/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sydq/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SydB/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SydP/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Syf9/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000673E875B37ADDC01000000000000000
+ 010000000696B8D27A80F8C45973AA0915E3B81ED
+SUMMARY:⏱️ FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 - Sprint Qualific
+ ation
+DTSTART;TZID=UTC:20260501T203000
+DTEND;TZID=UTC:20260501T211400
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyfQ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Syg3/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sygb/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sygq/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sygy/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SygL/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Syh7/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Syhn/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SyhB/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyhT/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Syjg/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000072DE84B37ADDC01000000000000000
+ 010000000456E6FBDFC7B9048829EEF80F0E4BAFA
+SUMMARY:🏁 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 - Sprint Race
+DTSTART;TZID=UTC:20260502T160000
+DTEND;TZID=UTC:20260502T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Syk5/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Sykj/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sykt/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SykC/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SykS/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Syl6/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sylj/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sylw/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SylM/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sym2/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Symq/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000EDE7EB4437ADDC01000000000000000
+ 01000000094EBC636202C864386B2C336EBE65041
+SUMMARY:⏱️ FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260502T200000
+DTEND;TZID=UTC:20260502T210000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Synf/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Synz/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SynL/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SynX/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Syp6/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sypg/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sypy/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SypF/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SypY/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Syq9/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Syqs/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000000F8DAB4837ADDC01000000000000000
+ 0100000007FC846C2484F814D85E09CD48B00D59C
+SUMMARY:🏁 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260503T200000
+DTEND;TZID=UTC:20260503T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SF4c/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SF4v/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SF4M/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SF53/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SF5c/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SF5w/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SF5M/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SF62/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SF6g/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SF6z/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SF6W/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000D8288A4737ADDC01000000000000000
+ 0100000006220880084CB2245B040EFFF6D2D8F3D
+SUMMARY:🏎 FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026 - Practice 1
+DTSTART;TZID=UTC:20260522T163000
+DTEND;TZID=UTC:20260522T173000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Canada
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SF81/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SF8p/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SF8C/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SF8T/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SF95/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SF9g/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SF9Q/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFb8/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFbt/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFbJ/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFc1/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000001A65C06537ADDC01000000000000000
+ 010000000F152D5B4A40BEF4FB45DF5BE39A22B7B
+SUMMARY:⏱️ FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026 - Sprint Qualific
+ ation
+DTSTART;TZID=UTC:20260522T203000
+DTEND;TZID=UTC:20260522T211400
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Canada
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFdd/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFdx/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFdH/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFf1/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFfj/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFfx/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFfP/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFg4/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFgq/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFgK/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFhf/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E4D5355D37ADDC01000000000000000
+ 010000000F746DB81BDC1904F8C7D20134B52A7E8
+SUMMARY:🏁 FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026 - Sprint Race
+DTSTART;TZID=UTC:20260523T160000
+DTEND;TZID=UTC:20260523T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Canada
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFj1/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFjh/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFjy/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFjR/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFk8/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFkr/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFkJ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFkR/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFl9/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFlr/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFlW/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000007452DC4337ADDC01000000000000000
+ 01000000001035A1A9B08DF4CA15BED614BEB1799
+SUMMARY:⏱️ FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026 - Qualifying
+DTSTART;TZID=UTC:20260523T200000
+DTEND;TZID=UTC:20260523T210000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Canada
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFmX/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFnc/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFnt/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFnJ/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFp4/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFpn/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFpH/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFpS/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFqb/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFqv/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFqW/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000766EFE4837ADDC01000000000000000
+ 010000000C27A66F56FD1F0449DFB688CC8C98464
+SUMMARY:🏁 FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026 - Race
+DTSTART;TZID=UTC:20260524T200000
+DTEND;TZID=UTC:20260524T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Canada
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFVv/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFVR/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFWg/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFWG/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFX4/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFXr/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFXR/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFYf/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFYC/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFYW/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFZp/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000EBDAE34A37ADDC01000000000000000
+ 0100000007A2D97E10AD29A4382D6C1AF9084FC4C
+SUMMARY:🏎 FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 - Practice 1
+DTSTART;TZID=UTC:20260605T113000
+DTEND;TZID=UTC:20260605T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Monaco
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SG1t/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SG1Q/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SG29/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SG2v/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SG2N/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SG38/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SG49/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SG4z/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SG4P/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SG5j/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SG5D/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000DCF7855837ADDC01000000000000000
+ 010000000483043A6122775488562E54CFD23B9A8
+SUMMARY:🏎 FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 - Practice 2
+DTSTART;TZID=UTC:20260605T150000
+DTEND;TZID=UTC:20260605T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Monaco
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SG6P/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SG7g/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SG7F/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SG7S/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SG8j/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SG8H/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SG8Z/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SG9j/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SG9M/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGb9/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGbH/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000033B6B27237ADDC01000000000000000
+ 010000000074D4C8A063C6B40B820C5FE5776E248
+SUMMARY:🏎 FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 - Practice 3
+DTSTART;TZID=UTC:20260606T103000
+DTEND;TZID=UTC:20260606T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Monaco
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGd8/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGdm/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGdJ/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGdY/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGfq/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGfM/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGgJ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGhh/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGhG/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGj9/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGjM/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000083528C4937ADDC01000000000000000
+ 01000000033AD9CED85327745A2E9901AA9829FC3
+SUMMARY:⏱️ FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 - Qualifyi
+ ng
+DTSTART;TZID=UTC:20260606T140000
+DTEND;TZID=UTC:20260606T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Monaco
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGkV/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGlg/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGlH/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGm7/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGmt/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGmW/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGnh/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGnz/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGp5/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGpn/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGpX/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000970B625637ADDC01000000000000000
+ 0100000000FC7EC2070009E4B9AD175D8F93D1F02
+SUMMARY:🏁 FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 - Race
+DTSTART;TZID=UTC:20260607T130000
+DTEND;TZID=UTC:20260607T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Monaco
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHxq/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHxN/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHyl/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHyR/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHzk/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHzQ/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHBq/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHBM/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHCQ/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHDp/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHF3/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000ACC7954B37ADDC01000000000000000
+ 0100000004BBF16CE05EA0A47B618C8EC02D010F8
+SUMMARY:🏎 FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 
+ - Practice 1
+DTSTART;TZID=UTC:20260612T113000
+DTEND;TZID=UTC:20260612T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHGD/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHH1/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHHr/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHHW/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHJn/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHJS/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHKl/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHKT/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHLd/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHLG/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHMg/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000007737036637ADDC01000000000000000
+ 010000000D0EDCEF533E4A04188834E50C4454ACF
+SUMMARY:🏎 FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 
+ - Practice 2
+DTSTART;TZID=UTC:20260612T150000
+DTEND;TZID=UTC:20260612T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHNT/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHPg/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHPC/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHQb/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHQr/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHQP/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHRj/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHRD/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHS3/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHSw/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHT6/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000DA160C7337ADDC01000000000000000
+ 010000000030FE64007558848B7A8637540EACE41
+SUMMARY:🏎 FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 
+ - Practice 3
+DTSTART;TZID=UTC:20260613T103000
+DTEND;TZID=UTC:20260613T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHVy/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHW6/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHWq/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHWF/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHXb/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHXv/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHXP/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHYc/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHYG/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHZd/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHZY/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008B0EA25637ADDC01000000000000000
+ 01000000064F9DE9076C57E4EBD4BA51513376596
+SUMMARY:⏱️ FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 202
+ 6 - Qualifying
+DTSTART;TZID=UTC:20260613T140000
+DTEND;TZID=UTC:20260613T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJ2v/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJ2S/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJ3g/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJ3H/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJ42/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJ4t/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJ4Z/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJ5m/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJ6j/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJ6K/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJ7p/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000B12E1A4A37ADDC01000000000000000
+ 0100000005BF83C7E5CAD854096A4177C060229F1
+SUMMARY:🏁 FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 
+ - Race
+DTSTART;TZID=UTC:20260614T130000
+DTEND;TZID=UTC:20260614T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBT9/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBTr/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBTG/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBTY/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBV8/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBVr/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBVH/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBVZ/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBWh/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBWG/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBX6/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000001197CC7037ADDC01000000000000000
+ 01000000085215FBD4EC73F43B103AE3C7D978F53
+SUMMARY:🏎 FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260626T113000
+DTEND;TZID=UTC:20260626T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Austria
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBYd/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBYz/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBYW/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBZj/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBZG/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SC17/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SC1n/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SC1N/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SC25/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SC2r/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SC2X/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008FEA874C37ADDC01000000000000000
+ 010000000C6B33B99EDE5464B8D68C0E53C207A2A
+SUMMARY:🏎 FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026 - Practice 2
+DTSTART;TZID=UTC:20260626T150000
+DTEND;TZID=UTC:20260626T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Austria
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SC4R/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SC5l/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SC5N/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SC6f/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SC6F/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SC74/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SC7s/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SC7L/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SC87/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SC8z/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SC99/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000001DE9924F37ADDC01000000000000000
+ 010000000613D75FF9077C24A86A85EC5F26C35E5
+SUMMARY:🏎 FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026 - Practice 3
+DTSTART;TZID=UTC:20260627T103000
+DTEND;TZID=UTC:20260627T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Austria
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SCb9/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SCbs/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SCbH/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SCc5/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SCcp/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SCcM/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SCcZ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SCdp/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SCdP/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SCf6/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SCfK/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000005CAEDF4C37ADDC01000000000000000
+ 01000000040C996111F93DE4B935C1C8C8E44963C
+SUMMARY:⏱️ FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260627T140000
+DTEND;TZID=UTC:20260627T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Austria
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SCgP/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SChc/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SChy/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SChS/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SCjf/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SCjx/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SCjP/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SCk9/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SCks/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SCkN/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SCl9/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000F5DFF56D37ADDC01000000000000000
+ 0100000001F0EAB5C14D50D4C98415B8D043E24FA
+SUMMARY:🏁 FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260628T130000
+DTEND;TZID=UTC:20260628T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Austria
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SCMq/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SCMz/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SCMT/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SCNb/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SCNq/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SCNK/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SCNZ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SCPh/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SCPB/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SCQz/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SCQY/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000099201B7137ADDC01000000000000000
+ 010000000C9754898A29BF3448D3627FC36A1AC6A
+SUMMARY:🏎 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260703T113000
+DTEND;TZID=UTC:20260703T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Kingdom
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SCS1/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SCSk/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SCSF/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SCSX/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SCTj/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SCTy/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SCTT/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SCVk/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SCVG/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SCVT/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SCWc/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000AD6B486937ADDC01000000000000000
+ 010000000C38BDC9C40D75A4ABD7F1CC3CB0D520E
+SUMMARY:⏱️ FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026 - Sprint Qualifica
+ tion
+DTSTART;TZID=UTC:20260703T153000
+DTEND;TZID=UTC:20260703T161400
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Kingdom
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SCWZ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SCXg/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SCXB/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SCXT/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SCYf/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SCYz/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SCYW/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SCZg/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SCZz/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SCZV/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SD1f/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000C43B3F6E37ADDC01000000000000000
+ 010000000521E543972885D4B925B654675AA5B22
+SUMMARY:🏁 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026 - Sprint Race
+DTSTART;TZID=UTC:20260704T110000
+DTEND;TZID=UTC:20260704T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Kingdom
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SD2H/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SD2Y/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SD3f/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SD3t/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SD3J/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SD42/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SD4c/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SD4v/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SD4Q/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SD58/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SD5z/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008933CD4937ADDC01000000000000000
+ 010000000004B320FCC5D9D49AF1B2C5BCF526144
+SUMMARY:⏱️ FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260704T150000
+DTEND;TZID=UTC:20260704T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Kingdom
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SD6s/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SD6G/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SD71/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SD7j/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SD7B/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SD7V/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SD8c/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SD8G/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SD8X/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SD9l/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SD9K/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000098B3884337ADDC01000000000000000
+ 0100000007D2F5DA4E99A3D4C8B37B51340B9146C
+SUMMARY:🏁 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260705T140000
+DTEND;TZID=UTC:20260705T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Kingdom
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SDDN/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SDF7/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SDFv/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SDFW/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SDGc/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SDGs/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SDGN/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SDHD/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SDJ1/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SDJ8/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SDJF/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000FD48D74F37ADDC01000000000000000
+ 010000000EFEAE43C40C1654C8D4B88FBDEE79FFE
+SUMMARY:🏎 FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260717T113000
+DTEND;TZID=UTC:20260717T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Belgium
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SDKD/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SDKV/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SDLd/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SDM3/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SDMq/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SDMJ/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SDN3/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SDNp/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SDND/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SDNV/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SDPq/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000005067496737ADDC01000000000000000
+ 010000000153254A35FE24E46B3FE9C21B70652CD
+SUMMARY:🏎 FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026 - Practice 2
+DTSTART;TZID=UTC:20260717T150000
+DTEND;TZID=UTC:20260717T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Belgium
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SDQm/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SDQG/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SDQW/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SDRd/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SDRB/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SDRT/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SDS9/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SDSw/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SDSK/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SDSV/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SDTs/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000A46DD25837ADDC01000000000000000
+ 010000000D00C4C8B2A72254AA4EA6366E32BB538
+SUMMARY:🏎 FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026 - Practice 3
+DTSTART;TZID=UTC:20260718T103000
+DTEND;TZID=UTC:20260718T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Belgium
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SDVr/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SDVF/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SDVR/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SDW5/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SDWg/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SDWw/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SDWL/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SDWY/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SDXb/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SDXq/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SDXQ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000001771EA6937ADDC01000000000000000
+ 010000000F4037F12C18E6645ACC62FA775BB7679
+SUMMARY:⏱️ FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026 - Qualifyi
+ ng
+DTSTART;TZID=UTC:20260718T140000
+DTEND;TZID=UTC:20260718T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Belgium
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SDYD/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SDYR/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SDZ4/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SDZl/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SDZN/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SF1j/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SF1B/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SF1W/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SF2b/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SF2s/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SF2V/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E327504D37ADDC01000000000000000
+ 01000000005273F836293DD4EA9421E09D8561305
+SUMMARY:🏁 FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260719T130000
+DTEND;TZID=UTC:20260719T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Belgium
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Syrc/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Syrw/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SyrK/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sys4/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sysk/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SysC/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SysR/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Syt4/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sytn/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SytC/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Syv3/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000032799C6937ADDC01000000000000000
+ 010000000C513013A08DCF1409F697E07685F5FCB
+SUMMARY:🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260724T113000
+DTEND;TZID=UTC:20260724T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Hungary
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyvZ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Sywb/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Syww/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SywK/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Syx3/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Syxk/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SyxN/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Syy4/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Syyh/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyyH/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Syz7/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000010BF9A6B37ADDC01000000000000000
+ 010000000F83101260F97F848A06C36CF2DB65374
+SUMMARY:🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Practice 2
+DTSTART;TZID=UTC:20260724T150000
+DTEND;TZID=UTC:20260724T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Hungary
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyzZ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SyBc/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SyBy/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SyCh/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SyCw/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SyCK/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SyD2/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SyDj/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SyDv/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyDL/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SyFb/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008CFCA47137ADDC01000000000000000
+ 010000000949A96F1C7787A48A2A70C1E301E27ED
+SUMMARY:🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Practice 3
+DTSTART;TZID=UTC:20260725T103000
+DTEND;TZID=UTC:20260725T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Hungary
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyG7/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SyGm/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SyGy/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SyGR/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SyH4/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SyHl/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SyHD/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SyHV/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SyJ9/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyJp/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SyJT/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000051DC94637ADDC01000000000000000
+ 0100000004A9A7B21F6303E47A87C0374C97130FF
+SUMMARY:⏱️ FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260725T140000
+DTEND;TZID=UTC:20260725T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Hungary
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyKP/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SyL3/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SyLk/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SyLD/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SyLT/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SyMh/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SyMz/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SyMS/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SyN9/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyNr/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SyP3/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000027B0195437ADDC01000000000000000
+ 01000000031D5DDA96E303D42BE371D6E5804EAC8
+SUMMARY:🏁 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260726T130000
+DTEND;TZID=UTC:20260726T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Hungary
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Szzr/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SzzG/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzB6/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzBk/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SzBB/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SzBX/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzCz/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzCL/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SzD1/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzDr/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzDP/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000005A3F975137ADDC01000000000000000
+ 010000000EAF7957F6914E44EA597FE31317D5269
+SUMMARY:🏎 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20260821T103000
+DTEND;TZID=UTC:20260821T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Netherlands
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzGg/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SzGv/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzGK/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzH2/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SzHl/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SzHy/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzHQ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzJ8/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SzJn/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzJG/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzKg/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000006D130A5137ADDC01000000000000000
+ 010000000D92A140ED19EF84BB507E1060F721712
+SUMMARY:⏱️ FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026 - Sprint Qualificat
+ ion
+DTSTART;TZID=UTC:20260821T143000
+DTEND;TZID=UTC:20260821T151400
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Netherlands
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzLy/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SzLQ/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzM5/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzMK/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SzN1/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SzNh/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzNz/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzNS/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SzP9/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzPs/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzPL/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000CD41AB5437ADDC01000000000000000
+ 0100000003B1A2EFA86370B479A3ACE9E980745E7
+SUMMARY:🏁 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026 - Sprint Race
+DTSTART;TZID=UTC:20260822T100000
+DTEND;TZID=UTC:20260822T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Netherlands
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzQF/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SzQY/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzRg/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzRx/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SzRP/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SzSd/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzSB/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzSP/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SzT7/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzTs/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzTX/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000995CA46D37ADDC01000000000000000
+ 010000000700A132AC8CA744CA3006A1771E42B74
+SUMMARY:⏱️ FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20260822T140000
+DTEND;TZID=UTC:20260822T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Netherlands
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SzVL/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SzW1/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SzWG/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SzWX/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SzXg/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SzXy/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SzXT/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SzY7/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SzYn/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzYG/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SzZc/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000004231404C37ADDC01000000000000000
+ 0100000000A098123D428BB459E7123FD300EC97A
+SUMMARY:🏁 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260823T130000
+DTEND;TZID=UTC:20260823T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Netherlands
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJ8q/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJ8Q/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJ9k/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJ9G/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJb3/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJbp/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJbM/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJc3/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJcm/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJcJ/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJdj/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000AB57976C37ADDC01000000000000000
+ 010000000E9534BE8E07CCD48A2801B2B9585B156
+SUMMARY:🏎 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026 - Practice 1
+DTSTART;TZID=UTC:20260904T103000
+DTEND;TZID=UTC:20260904T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Italy
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJfL/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJg7/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJgz/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJh4/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJht/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJhK/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJjj/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJjD/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJjZ/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJkm/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJkP/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000B8CC204437ADDC01000000000000000
+ 010000000B25713DAA9EEA9408933D0538C8EB110
+SUMMARY:🏎 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026 - Practice 2
+DTSTART;TZID=UTC:20260904T140000
+DTEND;TZID=UTC:20260904T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Italy
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJlR/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJn2/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJnm/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJnR/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJpd/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJpx/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJpX/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJql/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJqW/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJrk/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJs2/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000534DE05C37ADDC01000000000000000
+ 010000000C78F6A60B35CF541B1FBC4787A88DF34
+SUMMARY:🏎 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026 - Practice 3
+DTSTART;TZID=UTC:20260905T103000
+DTEND;TZID=UTC:20260905T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Italy
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJtw/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJtZ/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJvp/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJvM/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJwg/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJx2/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJxn/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJxN/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJy7/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJyx/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJz9/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000CC524E6637ADDC01000000000000000
+ 0100000005B9C945877219946BE6CDFBF105E3F98
+SUMMARY:⏱️ FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026 - Qualifying
+DTSTART;TZID=UTC:20260905T140000
+DTEND;TZID=UTC:20260905T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Italy
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJBs/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJBX/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJCn/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJCR/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJDj/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJDM/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJFc/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJFM/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJGc/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJGx/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJGZ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000068EC325337ADDC01000000000000000
+ 010000000EB92798588021A40B42FB1CE5A870856
+SUMMARY:🏁 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026 - Race
+DTSTART;TZID=UTC:20260906T130000
+DTEND;TZID=UTC:20260906T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Italy
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJJB/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJKM/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJL8/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJLt/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJLQ/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJMb/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJMF/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJNd/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJNH/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJP3/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJPR/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000007C5CAB4D37ADDC01000000000000000
+ 0100000007927E548B2FC06418F9F3A00CFE62CDB
+SUMMARY:🏎 FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Practice 1
+DTSTART;TZID=UTC:20260911T113000
+DTEND;TZID=UTC:20260911T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJS1/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJSr/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJSK/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SJTb/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SJTw/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SJTX/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SJVb/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SJVv/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SJVR/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SJWj/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SJWQ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000056CF5D4837ADDC01000000000000000
+ 010000000AE36D396337F944FA1C86BF13A20CFA4
+SUMMARY:🏎 FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Practice 2
+DTSTART;TZID=UTC:20260911T150000
+DTEND;TZID=UTC:20260911T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SJYK/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SJZ7/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SJZD/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SK1f/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SK1D/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SK1R/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SK2b/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SK2G/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SK36/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SK3v/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SK4j/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000009BB4014E37ADDC01000000000000000
+ 010000000A3B2B206A681384C950BB71994B3D502
+SUMMARY:🏎 FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Practice 3
+DTSTART;TZID=UTC:20260912T103000
+DTEND;TZID=UTC:20260912T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SK5P/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SK66/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SK6t/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SK6Q/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SK75/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SK7m/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SK7M/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SK83/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SK8r/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SK8K/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SK9x/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000C48C5A5137ADDC01000000000000000
+ 010000000C74280AC9A6E3340B035E613560A8C25
+SUMMARY:⏱️ FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Qualifying
+DTSTART;TZID=UTC:20260912T140000
+DTEND;TZID=UTC:20260912T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKbX/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKcp/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKcV/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKdj/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKdH/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKf9/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKfx/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKg2/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKgv/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKgT/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKhx/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000974F434E37ADDC01000000000000000
+ 0100000002F7BBF765D5D1A42AC6063F8D3EDF250
+SUMMARY:🏁 FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Race
+DTSTART;TZID=UTC:20260913T130000
+DTEND;TZID=UTC:20260913T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Spain
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFs8/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFsl/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFsz/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFsM/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFt5/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFtl/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFtJ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFtX/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFvc/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFvs/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFvM/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E8A12C6A37ADDC01000000000000000
+ 0100000003446C6CD3091EF4B91EB8230186ACE0F
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - Practice 
+ 1
+DTSTART;TZID=UTC:20260924T083000
+DTEND;TZID=UTC:20260924T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Azerbaijan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFwK/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFwS/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFx6/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFxp/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFxC/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFxW/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFyb/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFyp/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFyD/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFyS/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFCh/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000DF365F6837ADDC01000000000000000
+ 010000000BD98287D081D0E429653C6E9394F5E97
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - Practice 
+ 2
+DTSTART;TZID=UTC:20260924T120000
+DTEND;TZID=UTC:20260924T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Azerbaijan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFDn/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFDM/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFF7/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFFl/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFFN/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFG2/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFGk/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFGz/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFGS/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFHh/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFHF/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000BC46875A37ADDC01000000000000000
+ 0100000004CBF3924F7CEAC4D9C93FED40473D072
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - Practice 
+ 3
+DTSTART;TZID=UTC:20260925T083000
+DTEND;TZID=UTC:20260925T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Azerbaijan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFJH/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFJS/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFKf/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFKx/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFKN/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFL4/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFLw/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFLT/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFMc/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFMv/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFMZ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000002DB2AF6837ADDC01000000000000000
+ 0100000003B2C268BB3731E4CB7AFC2C2B7AD1D39
+SUMMARY:⏱️ FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - Qualify
+ ing
+DTSTART;TZID=UTC:20260925T120000
+DTEND;TZID=UTC:20260925T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Azerbaijan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SFPq/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SFPK/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SFPY/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SFQf/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SFQF/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SFR1/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SFRn/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SFRV/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SFS7/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SFSy/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SFT2/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000FACB166537ADDC01000000000000000
+ 0100000005344DAB6DF58D344A54B4FCCEA3C16B2
+SUMMARY:🏁 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20260926T110000
+DTEND;TZID=UTC:20260926T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Azerbaijan
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGyy/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGyT/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGzd/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGzK/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGB9/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGBp/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGBR/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGCc/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGCw/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGCY/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGDm/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000026C8164837ADDC01000000000000000
+ 0100000005532306FE0505C4481924EF60699668A
+SUMMARY:🏎 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Pract
+ ice 1
+DTSTART;TZID=UTC:20261009T083000
+DTEND;TZID=UTC:20261009T093000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Singapore
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGFx/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGFR/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGG4/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGGn/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGGM/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGH9/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGHB/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGJ3/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGJN/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGKk/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGKQ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000074A5D96737ADDC01000000000000000
+ 010000000AFC877A25016DF49B8D19CD5D3ACA733
+SUMMARY:⏱️ FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Spr
+ int Qualification
+DTSTART;TZID=UTC:20261009T123000
+DTEND;TZID=UTC:20261009T131400
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Singapore
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGr9/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGrC/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGsf/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGsM/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGth/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGtH/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGv7/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGvC/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGvX/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGwp/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGx4/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000034954A4937ADDC01000000000000000
+ 0100000007D38D0A3B7A0AE4B95DAE91D965D09FD
+SUMMARY:🏁 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Sprin
+ t Race
+DTSTART;TZID=UTC:20261010T090000
+DTEND;TZID=UTC:20261010T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Singapore
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGMh/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGMK/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGNb/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGNF/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGP5/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGPw/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGPR/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGQn/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGQS/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGRg/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGRY/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E03F365837ADDC01000000000000000
+ 01000000076B793437624054F981D6CAD60CE2A03
+SUMMARY:⏱️ FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Qua
+ lifying
+DTSTART;TZID=UTC:20261010T130000
+DTEND;TZID=UTC:20261010T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Singapore
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SGTq/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SGTN/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SGVb/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SGVH/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SGW3/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SGWB/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SGX2/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SGXs/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SGXQ/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SGYc/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SGYD/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000000F9E1D5637ADDC01000000000000000
+ 0100000006828EC9705385646B6B1EA61B3C8601D
+SUMMARY:🏁 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20261011T120000
+DTEND;TZID=UTC:20261011T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Singapore
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SH18/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SH1z/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SH1V/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SH2h/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SH2D/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SH2V/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SH37/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SH3y/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SH3X/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SH4s/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SH5b/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000000679C25A37ADDC01000000000000000
+ 010000000CD9826F5013EAB449DCE6A01C1270023
+SUMMARY:🏎 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Practice
+  1
+DTSTART;TZID=UTC:20261023T173000
+DTEND;TZID=UTC:20261023T183000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SH6j/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SH6H/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SH7F/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SH7Y/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SH8x/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SH8R/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SH9m/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SH9M/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHbm/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHbG/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHcq/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000008CC5B16A37ADDC01000000000000000
+ 010000000CC4D9AAEFC90F346851781B4156E8A9A
+SUMMARY:🏎 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Practice
+  2
+DTSTART;TZID=UTC:20261023T210000
+DTEND;TZID=UTC:20261023T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHdC/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHf1/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHfg/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHfB/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHfY/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHgg/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHgB/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHgW/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHhf/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHhM/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHjd/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000001191D5037ADDC01000000000000000
+ 01000000083EF4BAC4C3D7845A21755E5E919D8C3
+SUMMARY:🏎 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Practice
+  3
+DTSTART;TZID=UTC:20261024T173000
+DTEND;TZID=UTC:20261024T183000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHkz/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHkX/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHlv/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHlS/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHmh/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHmC/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHn5/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHnw/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHnR/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHp7/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHpz/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000083EBA15C37ADDC01000000000000000
+ 010000000B5FF409BE9918542BA75E3D1A88A38CE
+SUMMARY:⏱️ FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Qualif
+ ying
+DTSTART;TZID=UTC:20261024T210000
+DTEND;TZID=UTC:20261024T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SHr4/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SHrl/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SHrM/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SHsc/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SHsH/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SHt4/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SHtq/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SHtM/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SHvj/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SHvP/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SHwh/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000000EA404B37ADDC01000000000000000
+ 010000000A985514ADA858B4EA77C6C1D5FBCA541
+SUMMARY:🏁 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20261025T200000
+DTEND;TZID=UTC:20261025T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKjP/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKkb/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKky/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKkY/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKlh/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKlF/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKm5/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKmz/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKn1/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKns/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKnZ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000009C7EE85637ADDC01000000000000000
+ 01000000053D035C5C0B43C45B612E6D243478309
+SUMMARY:🏎 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - Practice 
+ 1
+DTSTART;TZID=UTC:20261030T183000
+DTEND;TZID=UTC:20261030T193000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Mexico
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKqj/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKqD/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKr4/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKrs/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKrT/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKsj/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKsJ/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKt6/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKtt/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKv2/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKvB/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000192E6D6537ADDC01000000000000000
+ 010000000461709BAEDDB8F4AA9E40989935C9888
+SUMMARY:🏎 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - Practice 
+ 2
+DTSTART;TZID=UTC:20261030T220000
+DTEND;TZID=UTC:20261030T230000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Mexico
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKxd/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKxJ/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKyc/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKyC/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKz2/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKzt/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKzN/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKB8/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKBB/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKC5/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKCJ/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000C2C9F26B37ADDC01000000000000000
+ 0100000008B2E17185C58C446B29B0CDFC2053DB8
+SUMMARY:🏎 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - Practice 
+ 3
+DTSTART;TZID=UTC:20261031T173000
+DTEND;TZID=UTC:20261031T183000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Mexico
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKFj/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKFN/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKGd/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKGD/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKHb/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKHC/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKJ5/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKJw/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKK3/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKKq/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKLh/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000003B91974537ADDC01000000000000000
+ 010000000B934AB0D6149AB4F81D072A5021442F3
+SUMMARY:⏱️ FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - Qualify
+ ing
+DTSTART;TZID=UTC:20261031T210000
+DTEND;TZID=UTC:20261031T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Mexico
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKMF/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKN1/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKNw/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKNT/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKPh/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKPF/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKQ4/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKQB/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKQS/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKRh/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKS2/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000004B3ED95537ADDC01000000000000000
+ 010000000202B6D00B4623B48B5A5D21E3622ACC3
+SUMMARY:🏁 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026 - Race
+DTSTART;TZID=UTC:20261101T200000
+DTEND;TZID=UTC:20261101T220000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Mexico
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKTz/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SKTV/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SKVf/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SKVD/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SKVZ/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SKWc/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SKWR/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SKXb/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SKXx/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SKXS/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SKYx/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000000D69785337ADDC01000000000000000
+ 01000000018C466333FBBD647854F931D3266772D
+SUMMARY:🏎 FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026 - Prac
+ tice 1
+DTSTART;TZID=UTC:20261106T153000
+DTEND;TZID=UTC:20261106T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Brazil
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SKZW/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SL1m/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SL1D/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SL22/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SL2k/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SL2N/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SL39/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SL3D/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SL44/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SL4y/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SL4W/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000005E9DFE5A37ADDC01000000000000000
+ 010000000602A82DCE2CB7C4DA725E4164D4F8C49
+SUMMARY:🏎 FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026 - Prac
+ tice 2
+DTSTART;TZID=UTC:20261106T190000
+DTEND;TZID=UTC:20261106T200000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Brazil
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SL6p/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SL6N/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SL79/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SL7w/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SL7P/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SL8f/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SL8w/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SL8Y/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SL99/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SL9z/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLb1/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000D0D7EF6837ADDC01000000000000000
+ 0100000001482E7EEC0D02147BB7770AA11B578B3
+SUMMARY:🏎 FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026 - Prac
+ tice 3
+DTSTART;TZID=UTC:20261107T143000
+DTEND;TZID=UTC:20261107T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Brazil
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLcL/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLd5/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLdv/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLdS/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLfs/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLfV/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLgq/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLgH/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLh6/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLht/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLj7/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000006CC6795037ADDC01000000000000000
+ 010000000305BAA1CFD1A404698A0B8B75CD6136C
+SUMMARY:⏱️ FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026 - Qu
+ alifying
+DTSTART;TZID=UTC:20261107T180000
+DTEND;TZID=UTC:20261107T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Brazil
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLkw/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLkL/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLl1/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLlm/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLlH/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLm4/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLmt/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLmJ/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLn4/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLnv/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLnW/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000005A29445C37ADDC01000000000000000
+ 010000000C9858B2F122A1C499C0921CBF3495D19
+SUMMARY:🏁 FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026 - Race
+DTSTART;TZID=UTC:20261108T170000
+DTEND;TZID=UTC:20261108T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Brazil
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLq6/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLqv/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLqX/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLrl/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLrM/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLs8/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLsv/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLsS/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLtb/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLtB/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLv4/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000053DA6C4437ADDC01000000000000000
+ 01000000041D166788CC26D40BBA1C1C7D47DD2A6
+SUMMARY:🏎 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20261120T003000
+DTEND;TZID=UTC:20261120T013000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLw8/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLww/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLwQ/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLxd/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLxw/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLxP/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLyc/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLyw/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLyS/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLz6/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLzD/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000029D0255737ADDC01000000000000000
+ 0100000004555EE58887D5540802CC56CEAB996B8
+SUMMARY:🏎 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - Practice 2
+DTSTART;TZID=UTC:20261120T040000
+DTEND;TZID=UTC:20261120T050000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLBW/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLCb/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLCL/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLD5/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLDs/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLDM/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLF8/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLFr/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLFW/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLGc/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLGK/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000DF59385537ADDC01000000000000000
+ 010000000E2FE13BF56C7184599147419DE663F23
+SUMMARY:🏎 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - Practice 3
+DTSTART;TZID=UTC:20261121T003000
+DTEND;TZID=UTC:20261121T013000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLJ7/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLJn/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLJK/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLK6/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLKr/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLKM/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLLb/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLLy/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLLY/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLMj/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLMT/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000EEF2966737ADDC01000000000000000
+ 01000000020B70BE53103BC498CC69DFD1A226840
+SUMMARY:⏱️ FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20261121T040000
+DTEND;TZID=UTC:20261121T050000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SLP1/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SLPs/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SLPP/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SLQ8/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SLQn/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SLQP/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SLRs/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SLSd/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SLSB/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SLSV/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SLTg/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E290425B37ADDC01000000000000000
+ 01000000029371F9103BD2D4CBC2E24734327F699
+SUMMARY:🏁 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20261122T040000
+DTEND;TZID=UTC:20261122T060000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United States
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyVs/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SyVN/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SyW5/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SyWk/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SyWC/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SyWT/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SyX9/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SyXr/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SyXL/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyY2/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SyYp/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000E61D1F6837ADDC01000000000000000
+ 0100000002F62DE37D79B7A469BB9AB0CA42ADB34
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026 - Practice 1
+DTSTART;TZID=UTC:20261127T133000
+DTEND;TZID=UTC:20261127T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Qatar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyPZ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SyQs/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SyR7/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SyRl/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SyRD/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SyRQ/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SyS7/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SySk/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SySD/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SyST/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SyTl/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000001903904E37ADDC01000000000000000
+ 0100000003ECCA7678F9B7847945AC31B74E2B877
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026 - Practice 2
+DTSTART;TZID=UTC:20261127T170000
+DTEND;TZID=UTC:20261127T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Qatar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SyZt/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SyZL/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sz18/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sz1p/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sz1H/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sz1Z/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sz2g/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sz2D/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sz2R/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sz3c/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Sz3y/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000DDA2C85037ADDC01000000000000000
+ 010000000CC38AA4CAD4CFE4F973CF15A684E9572
+SUMMARY:🏎 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026 - Practice 3
+DTSTART;TZID=UTC:20261128T143000
+DTEND;TZID=UTC:20261128T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Qatar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Sz4p/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Sz4B/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sz4V/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sz56/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sz5r/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sz5K/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Sz5W/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Sz6c/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Sz6r/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28Sz6L/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Sz79/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000F76E625437ADDC01000000000000000
+ 01000000058864C3194E3584BA9FC7FD7A31978D2
+SUMMARY:⏱️ FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026 - Qualifying
+DTSTART;TZID=UTC:20261128T180000
+DTEND;TZID=UTC:20261128T190000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Qatar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28Sz8h/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28Sz8v/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28Sz8H/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28Sz9k/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28Sz9v/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28Sz9K/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28Szb1/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28Szbd/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8Szbs/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SzbH/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28Szc2/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000000AD2B85737ADDC01000000000000000
+ 010000000CD89CAD216396343AC55A931BEA864A5
+SUMMARY:🏁 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20261129T160000
+DTEND;TZID=UTC:20261129T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Qatar
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SB1c/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SB1p/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SB1G/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SB1S/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SB2b/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SB2w/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SB2R/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SB34/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SB3s/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SB3J/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SB4d/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E008000000007422566B37ADDC01000000000000000
+ 0100000003D781C1DF35ED649BB70C98D4BEACEF5
+SUMMARY:🏎 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026 - Practice 
+ 1
+DTSTART;TZID=UTC:20261204T093000
+DTEND;TZID=UTC:20261204T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Arab Emirates
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SB5p/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SB5F/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SB6v/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SB6P/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SB73/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SB7p/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SB7G/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SB82/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SB8n/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SB8J/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SB9w/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E0080000000091E3D65337ADDC01000000000000000
+ 010000000AD5C260EE9259641BDFEE3820209C8CA
+SUMMARY:🏎 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026 - Practice 
+ 2
+DTSTART;TZID=UTC:20261204T130000
+DTEND;TZID=UTC:20261204T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Arab Emirates
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBbv/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBbR/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBcd/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBct/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBcN/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBdb/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBdx/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBfk/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBfH/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBfX/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBgm/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000F5FBF25437ADDC01000000000000000
+ 0100000001E205D04ABA1A5409BAFBC7CC6339C61
+SUMMARY:🏎 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026 - Practice 
+ 3
+DTSTART;TZID=UTC:20261205T103000
+DTEND;TZID=UTC:20261205T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Arab Emirates
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBh9/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBhl/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBhM/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBj3/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBjp/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBjL/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBk9/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBkx/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBkS/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBlj/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBlK/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000628B676437ADDC01000000000000000
+ 010000000ECE24A1A302FC04AA2F2E87379720CC1
+SUMMARY:⏱️ FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026 - Qualify
+ ing
+DTSTART;TZID=UTC:20261205T140000
+DTEND;TZID=UTC:20261205T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Arab Emirates
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow all the action on F1 TV and F1.com. \n\nUnlock the insid
+ e world of F1 by signing up to F1 Unlocked at F1.com/F1Unlocked\n\nFollow 
+ on the go with F1 TV\nhttps://cal.f1.com/f/28SBmZ/3tq9q\n\nVisit the Race 
+ Hub\nhttps://cal.f1.com/f/28SBnh/3tq9q\n\nFree sign up to F1 Unlocked\nhtt
+ ps://cal.f1.com/f/28SBnL/3tq9q\n\nDownload the Official F1 Race Programme 
+ App\nhttps://cal.f1.com/f/28SBp2/3tq9q\n\nWear your favourite teams colour
+ s with F1 store\nhttps://cal.f1.com/f/28SBpj/3tq9q\n\nChoose where to watc
+ h a race with F1 Tickets\nhttps://cal.f1.com/f/28SBpD/3tq9q\n\nFollow us o
+ n Facebook\nhttps://cal.f1.com/f/28SBpY/3tq9q\n\nFollow us on X\nhttps://c
+ al.f1.com/f/28SBqd/3tq9q\n\nFollow us on Instagram\nhttps://cal.f1.com/f/2
+ 8SBqD/3tq9q\n\nFollow us on TikTok\nhttps://cal.f1.com/f/28SBqV/3tq9q\n\nM
+ anage my ECAL\nhttps://cal.f1.com/f/28SBrs/3tq9q\n\n
+UID:040000008200E00074C5B7101A82E00800000000D995CB5B37ADDC01000000000000000
+ 010000000E2248DCE3544864E8053F5EC8869ED5B
+SUMMARY:🏁 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026 - Race
+DTSTART;TZID=UTC:20261206T130000
+DTEND;TZID=UTC:20261206T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260410T055957Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:United Arab Emirates
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260410@hurst
+DTSTART;VALUE=DATE:20260410
+SUMMARY:🌦 🌤  13°C / 26°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260411@hurst
+DTSTART;VALUE=DATE:20260411
+SUMMARY:🌦 🌤  14°C / 27°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260412@hurst
+DTSTART;VALUE=DATE:20260412
+SUMMARY:🌦 🌦  15°C / 26°C 🌘
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260413@hurst
+DTSTART;VALUE=DATE:20260413
+SUMMARY:🌦 🌦  15°C / 25°C 🌘
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260414@hurst
+DTSTART;VALUE=DATE:20260414
+SUMMARY:🌦 🌤  14°C / 26°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260415@hurst
+DTSTART;VALUE=DATE:20260415
+SUMMARY:🌦 ⛈️  16°C / 25°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260416@hurst
+DTSTART;VALUE=DATE:20260416
+SUMMARY:🌦 🌦  14°C / 19°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260417@hurst
+DTSTART;VALUE=DATE:20260417
+SUMMARY:🌦 🌦  13°C / 16°C 🌑
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260418@hurst
+DTSTART;VALUE=DATE:20260418
+SUMMARY:🌦 🌦  13°C / 17°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260419@hurst
+DTSTART;VALUE=DATE:20260419
+SUMMARY:🌦 🌦  12°C / 20°C 🌒
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260420@hurst
+DTSTART;VALUE=DATE:20260420
+SUMMARY:🌦 🌦  13°C / 18°C 🌒
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260421@hurst
+DTSTART;VALUE=DATE:20260421
+SUMMARY:🌦 🌦  13°C / 20°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260422@hurst
+DTSTART;VALUE=DATE:20260422
+SUMMARY:🌦 🌞  12°C / 22°C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260423@hurst
+DTSTART;VALUE=DATE:20260423
+SUMMARY:🌦 🌤  13°C / 23°C 🌓
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ephemeris-20260424@hurst
+DTSTART;VALUE=DATE:20260424
+SUMMARY:🌦 🌥  14°C / 22°C 🌓
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
